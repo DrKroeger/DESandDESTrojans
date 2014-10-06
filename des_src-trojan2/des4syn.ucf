@@ -1,0 +1,45 @@
+##THIS UCF FILE IS FOR SPARTAN 3E -XC3S500-FG320
+NET "clk" LOC = "B8"; # Bank = 0, Signal name = MCLK
+NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;
+
+# Pin assignment for DispCtl
+NET "seg<0>" LOC = "L18"; # Bank = 1, Signal name = CA
+NET "seg<1>" LOC = "F18"; # Bank = 1, Signal name = CB
+NET "seg<2>" LOC = "D17"; # Bank = 1, Signal name = CC
+NET "seg<3>" LOC = "D16"; # Bank = 2, Signal name = CD
+NET "seg<4>" LOC = "G14"; # Bank = 2, Signal name = CE
+NET "seg<5>" LOC = "J17"; # Bank = 1, Signal name = CF
+NET "seg<6>" LOC = "H14"; # Bank = 1, Signal name = CG
+NET "dp" LOC = "C17"; # Bank = 1, Signal name = DP
+
+NET "an<3>" LOC = "F15"; # Bank = 1, Signal name = AN3
+NET "an<2>" LOC = "C18"; # Bank = 1, Signal name = AN2
+NET "an<1>" LOC = "H17"; # Bank = 1, Signal name = AN1
+NET "an<0>" LOC = "F17"; # Bank = 1, Signal name = AN0
+
+# Pin assignment for SWs
+NET "sw<7>" LOC = "R17";  # Bank = 2, Signal name = SW7
+NET "sw<6>" LOC = "N17";  # Bank = 3, Signal name = SW6
+NET "sw<5>" LOC = "L13";  # Bank = 3, Signal name = SW5
+NET "sw<4>" LOC = "L14";  # Bank = 3, Signal name = SW4
+NET "sw<3>" LOC = "K17";  # Bank = 3, Signal name = SW3
+NET "sw<2>" LOC = "K18";  # Bank = 3, Signal name = SW2
+NET "sw<1>" LOC = "H18";  # Bank = 3, Signal name = SW1
+NET "sw<0>" LOC = "G18";  # Bank = 2, Signal name = SW0
+
+# Pin assignment for SWs
+NET "pb<0>" LOC = "B18";  # Bank = 1, Signal name = BTN3
+NET "pb<1>" LOC = "D18";  # Bank = 0, Signal name = BTN2
+NET "pb<2>" LOC = "E18"; # Bank = 2, Signal name = BTN1
+NET "pb<3>" LOC = "H13"; # Bank = 0, Signal name = BTN0
+
+# Pin assignment for LEDs
+NET "led<7>" LOC = "R4" ; # Bank = 3, Signal name = LD7
+NET "led<6>" LOC = "F4" ; # Bank = 2, Signal name = LD6
+NET "led<5>" LOC = "P15" ;  # Bank = 2, Signal name = LD5
+NET "led<4>" LOC = "E17" ;  # Bank = 2, Signal name = LD4
+NET "led<3>" LOC = "K14" ; # Bank = 2, Signal name = LD3
+NET "led<2>" LOC = "K15" ; # Bank = 3, Signal name = LD2
+NET "led<1>" LOC = "J15" ; # Bank = 2, Signal name = LD1
+NET "led<0>" LOC = "J14" ;  # Bank = 2, Signal name = LD0
+

@@ -1,0 +1,78 @@
+{C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/encypher.v} {1 {vlog -stats=none -work work {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/encypher.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module encypher
+
+Top level modules:
+	encypher
+
+} {} {}} {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/alpha.v} {1 {vlog -stats=none -work work {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/alpha.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module alpha
+
+Top level modules:
+	alpha
+
+} {} {}} {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/seven_seg_dis.v} {1 {vlog -stats=none -work work {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/seven_seg_dis.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module seven_seg_dis
+
+Top level modules:
+	seven_seg_dis
+
+} {} {}} {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/s_box_all.v} {1 {vlog -stats=none -work work {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/s_box_all.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module s_box
+
+Top level modules:
+	s_box
+
+} {} {}} {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/init_perm.v} {1 {vlog -stats=none -work work {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/init_perm.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module init_perm
+
+Top level modules:
+	init_perm
+
+} {} {}} {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/inv_perm.v} {1 {vlog -stats=none -work work {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/inv_perm.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module inv_perm
+
+Top level modules:
+	inv_perm
+
+} {} {}} {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/des_tb.v} {1 {vlog -stats=none -work work {C:\Users\Trevor Kroeger\Documents\School\TrustHW\Trojans\des_src-trojan4\des_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module des_tb
+
+Top level modules:
+	des_tb
+
+} {} {}} {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/permute_out.v} {1 {vlog -stats=none -work work {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/permute_out.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module permute_out
+
+Top level modules:
+	permute_out
+
+} {} {}} {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_schedule.v} {1 {vlog -stats=none -work work {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_schedule.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module key_schedule
+
+Top level modules:
+	key_schedule
+
+} {} {}} {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_rand.v} {1 {vlog -stats=none -work work {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_rand.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module key_rand
+
+Top level modules:
+	key_rand
+
+} {} {}} {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/des_enc.v} {1 {vlog -stats=none -work work {C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/des_enc.v}
+Model Technology ModelSim PE Student Edition vlog 10.3a Compiler 2014.04 Apr 14 2014
+-- Compiling module des_enc
+
+Top level modules:
+	des_enc
+
+} {} {}}

@@ -1,0 +1,242 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.3a/examples
+valpha
+Z0 !s110 1399386861
+!i10b 1
+!s100 R[0J0fPJNjmZ7l_Z@lI8]0
+IcU2HXZo9K;29zX1m6<Z5G1
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4
+w1399386682
+8C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/alpha.v
+FC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/alpha.v
+Fmessages.vh
+L0 19
+Z3 OP;L;10.3a;59
+r1
+!s85 0
+31
+!s108 1399386860.999000
+!s107 messages.vh|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/alpha.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/alpha.v|
+!s101 -O0
+!i113 1
+Z4 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vdes_enc
+R0
+!i10b 1
+!s100 33IdC:7:F6G412VMY;b<n2
+IgXME:=gj2jaBC:DMoN1Ii1
+R1
+R2
+w1399386135
+8C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/des_enc.v
+FC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/des_enc.v
+L0 22
+R3
+r1
+!s85 0
+31
+!s108 1399386861.077000
+!s107 C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/des_enc.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/des_enc.v|
+!s101 -O0
+!i113 1
+R4
+vdes_tb
+R0
+!i10b 1
+!s100 lF^[PCVk45]3;^lSJjGkG0
+IA3>_XJind9PE<M@kH6NJ91
+R1
+R2
+w1399386830
+8C:\Users\Trevor Kroeger\Documents\School\TrustHW\Trojans\des_src-trojan4\des_tb.v
+FC:\Users\Trevor Kroeger\Documents\School\TrustHW\Trojans\des_src-trojan4\des_tb.v
+L0 12
+R3
+r1
+!s85 0
+31
+!s108 1399386861.155000
+!s107 C:\Users\Trevor Kroeger\Documents\School\TrustHW\Trojans\des_src-trojan4\des_tb.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:\Users\Trevor Kroeger\Documents\School\TrustHW\Trojans\des_src-trojan4\des_tb.v|
+!s101 -O0
+!i113 1
+R4
+vencypher
+R0
+!i10b 1
+!s100 6fAFmfWIRl4WLbn@:f<G00
+I`zdbB2R8nP`?gdW=O7;FH1
+R1
+R2
+w1393310626
+8C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/encypher.v
+FC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/encypher.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1399386861.230000
+!s107 C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/encypher.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/encypher.v|
+!s101 -O0
+!i113 1
+R4
+vinit_perm
+R0
+!i10b 1
+!s100 1S[l5mR?7^3VAkcDlJ>E]3
+IoelK1Ol8PSfz49>I8>i2X1
+R1
+R2
+w1399046872
+8C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/init_perm.v
+FC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/init_perm.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1399386861.304000
+!s107 C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/init_perm.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/init_perm.v|
+!s101 -O0
+!i113 1
+R4
+vinv_perm
+R0
+!i10b 1
+!s100 cVAEQ>KkiJh`VUeSCKTS_2
+IMRaCf41kFYG8dTO1RBQ;`1
+R1
+R2
+w1398819689
+8C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/inv_perm.v
+FC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/inv_perm.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1399386861.381000
+!s107 C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/inv_perm.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/inv_perm.v|
+!s101 -O0
+!i113 1
+R4
+vkey_rand
+R0
+!i10b 1
+!s100 ZlPe@gQ40_aIW5bLRil9f3
+IP;h554=7m34bBAdUUaHLc1
+R1
+R2
+w1399062709
+8C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_rand.v
+FC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_rand.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1399386861.457000
+!s107 C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_rand.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_rand.v|
+!s101 -O0
+!i113 1
+R4
+vkey_schedule
+R0
+!i10b 1
+!s100 lQaL0aSX?0m7cFiSg?:jl1
+I@dA0__=l?_4nLAjWFmk>E2
+R1
+R2
+w1399072409
+8C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_schedule.v
+FC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_schedule.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1399386861.534000
+!s107 C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_schedule.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/key_schedule.v|
+!s101 -O0
+!i113 1
+R4
+vpermute_out
+R0
+!i10b 1
+!s100 ?90>z<eKckdm_DWOCHWHG3
+I?]5gk8WF<;oPU9J9kAGm91
+R1
+R2
+w1399067309
+8C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/permute_out.v
+FC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/permute_out.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1399386861.614000
+!s107 C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/permute_out.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/permute_out.v|
+!s101 -O0
+!i113 1
+R4
+vs_box
+R0
+!i10b 1
+!s100 PfL70O@IfHlYD5E0e:MPD0
+IlMk1k^3SjDjFS][Ck@CJJ1
+R1
+R2
+w1399056491
+8C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/s_box_all.v
+FC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/s_box_all.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1399386861.690000
+!s107 C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/s_box_all.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/s_box_all.v|
+!s101 -O0
+!i113 1
+R4
+vseven_seg_dis
+!s110 1399386860
+!i10b 1
+!s100 [RkMkc0]9:9G_g9I<6WO82
+I>?NIIHh8O0Q3F6^_DJ<jT3
+R1
+R2
+w1396538624
+8C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/seven_seg_dis.v
+FC:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/seven_seg_dis.v
+L0 48
+R3
+r1
+!s85 0
+31
+!s108 1399386860.923000
+!s107 C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/seven_seg_dis.v|
+!s90 -reportprogress|300|-stats=none|-work|work|C:/Users/Trevor Kroeger/Documents/School/TrustHW/Trojans/des_src-trojan4/seven_seg_dis.v|
+!s101 -O0
+!i113 1
+R4

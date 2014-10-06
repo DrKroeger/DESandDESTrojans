@@ -1,0 +1,1 @@
+This source correctly Implements the DES Encryption Standard. The implementation is not efficently created but slight modifications can be made to make it perform better and without the messages list.
